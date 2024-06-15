@@ -2,6 +2,8 @@
 xmake + qt
 
 # 教程
+Cookie可以不用填写
+
 以弹丸论破为例，http://weibo.com/p/1008088be585959d6c54bfd57d41717a50c9ea
 
 只需要将 /p/ 之后的 id(1008088be585959d6c54bfd57d41717a50c9ea) 替换 config.json 文件中 Url 字段的 containerid= 即可
